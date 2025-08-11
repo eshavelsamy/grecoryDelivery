@@ -1,9 +1,9 @@
 {
   "/_not-found/page": "/_not-found",
   "/cart/page": "/cart",
+  "/page": "/",
   "/offers/page": "/offers",
   "/orders/page": "/orders",
-  "/page": "/",
   "/products/[id]/page": "/products/[id]",
   "/products/page": "/products"
 }
